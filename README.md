@@ -2,4 +2,4 @@
 
 Example preview:
 
-![](https://raw.githubusercontent.com/rifki/flappy-ball/master/screenshot.png | width=100)
+![](https://raw.githubusercontent.com/rifki/flappy-ball/master/screenshot.png)
